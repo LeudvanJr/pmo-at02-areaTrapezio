@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Calcular Área - Trapézio</string>
+    <string name="tvAutor">Leudvan Guedes</string>
+    <string name="tvRA">1110482313027</string>
+    <string name="baseMenor">Base Menor (m)</string>
+    <string name="baseMaior">Base Maior (m)</string>
+    <string name="altura">Altura (m)</string>
+    <string name="btnCalcular">Calcular</string>>
+    <string name="resposta">Área do trapézio é</string>
 </resources>
